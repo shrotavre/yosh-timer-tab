@@ -18,6 +18,12 @@ This app was built using these technology stacks:
 - Webpack
 - Jest Test Engine
 
+### ToDo lists
+- [ ] Make app accessable via omnibox command.
+
+### Next Development Options (May be taken as TODOs or not)
+- Make tab pop up to front when timer ends 
+
 #### Bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) (Ejected).
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 You can find the most recent version of the installation guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
