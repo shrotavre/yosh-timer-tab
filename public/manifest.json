@@ -1,0 +1,30 @@
+{
+    "name": "Yosh! Timer Tab",
+		"description": "Simple timer tab to track time of, like, everything!",
+    "version": "1.0.0",
+		"background": {
+			"scripts": ["background.js"],
+			"persistent": false
+		},
+		"commands": {
+			"show-yosh-timer-tab": {
+				"suggested_key": { "default": "Alt+Shift+Y" },
+				"description": "Show Yosh! Timer tab"
+			}
+		},
+    "manifest_version": 2,
+		"browser_action": {
+			"default_icon": {
+				"16": "assets/images/icons/icon-16.png",
+				"32": "assets/images/icons/icon-32.png"
+				}
+		},
+    "minimum_chrome_version": "23",
+    "icons": {
+			"16": "assets/images/icons/icon-16.png",
+	    "32": "assets/images/icons/icon-32.png",
+	    "48": "assets/images/icons/icon-48.png",
+	    "128": "assets/images/icons/icon-128.png"
+    },
+    "offline_enabled": true
+}

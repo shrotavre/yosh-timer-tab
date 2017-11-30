@@ -1,0 +1,13 @@
+.ButtonRack {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+}
+
+.TabAppVersion .ButtonRack {
+    margin-top: 20px;
+    height: 50px;
+    border-radius: 7px;
+    overflow: hidden;
+}
