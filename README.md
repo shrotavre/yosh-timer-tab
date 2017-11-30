@@ -8,8 +8,6 @@ Install the extension in chrome. It should add a timer icon in the top right cor
 
 Or you can also press the command of Alt+Shift+Y to open it
 
-TODO: Make app accessable via omnibox command.
-
 ### Stacks used
 This app was built using these technology stacks:
 - JavaScript
